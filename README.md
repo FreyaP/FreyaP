@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreyaP
 - 👀 I’m interested in web development using React
-- 🌱 I’m currently learning lot more JavaScript and React. I will be looking Node and Gatsby soon as well
+- 🌱 I’m currently learning lots more JavaScript and React. I will be looking Node and Gatsby soon as well
 - 💞️ I’m looking to collaborate on a simple project to gain experience pair programming
 - 📫 Reach me on here or https://www.linkedin.com/in/freyapearse/ 
 
