@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreyaP
 - 👀 I love web development using React
-- 🌱 I’m currently learning lots more JavaScript, React and Gatsby.
+- 🌱 I’m currently learning lots more JavaScript, TypeScript, React and Gatsby.
 - 📫 Reach me on here or https://www.linkedin.com/in/freyapearse/ 
 
 <!---
