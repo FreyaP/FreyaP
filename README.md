@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FreyaP
 - 👀 I love web development using React, Express, Node & MySQL
 - ✨ I've also completed projects using Gatsby, Sanity & GraphQL
-- 🌱 I’m abou to jump into TypeScript, maybe some Angular and testing.
+- 🌱 I’m about to jump into TypeScript, maybe some Angular and testing.
 - 📫 Reach me on here or https://www.linkedin.com/in/freyapearse/ 
 
 <!---
